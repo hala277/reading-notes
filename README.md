@@ -3,7 +3,7 @@
 ***my name is hala almasharfeh I'm 21 years old from Amman, Jordan.
 I'm currently a second-year software engineering student at ASAC, I have an entrest in programming and web development that why I decided to take this course***
 [github bage](https://github.com/hala277)
-## *Growth mindset: 🧠:*
+## *Growth mindset: 🧠*
 **A growth mindset holds that one's core skills may be developed via hard work and dedication; intelligence and talent are just beginning points. A passion of learning is linked with a development mentality.**
 
 ## In the other hand:
