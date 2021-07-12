@@ -40,7 +40,7 @@ I'm currently a second-year software engineering student at ASAC, I have an entr
 **Try to see the success of others as a growth mindset encourages you to succeed and inspires you.**
 
 ## **how to keep myself in a growth mindset :**
-1. **try to ask my self **
+1. **try to ask my self** 
 + What was the best part of the day?
 + What went wrong, and how can I make sure it doesn’t happen again?
 2. **when i feel like I'm tired try to ask myself if that what I really want to do ?**
