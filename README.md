@@ -7,8 +7,8 @@ I'm currently a second-year software engineering student at ASAC, I have an entr
 
 content | link
 ------------ | -------------
-groth mind set| (grothMindSet page)[ https://hala277.github.io/reading-notes/grothMindSet]
-Markdown and GitHub pages|(Markdown page)[https://hala277.github.io/reading-notes/read01]
+groth mind set| [grothMindSet page]( https://hala277.github.io/reading-notes/grothMindSet)
+Markdown and GitHub pages|[Markdown page](https://hala277.github.io/reading-notes/read01)
 
 
 
