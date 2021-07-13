@@ -32,4 +32,11 @@ Git includes inherent Graphical User Interface (GUI) tools. but users can also u
 
 **CLI** mean **Command Line Interface** or in other way"The black screen terminal"
 
-we can add commands  using Git the most popular commands are `add commit puch` which refer to ACP
+we can add commands  using Git the most popular commands are `add commit`,` puch origin main` which refer to `ACP`
+
+- to add all file use `git add .`
+- to see information regarding changes to be committed use `git status`
+- to save the work with Message use `git commit -m "add Message here "`
+- to push changes to a remote repository use `git push origin main`
+
+
