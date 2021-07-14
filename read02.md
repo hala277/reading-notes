@@ -23,7 +23,7 @@ This system entails a single server storing all changes and file versions, which
 ### 3. Distributed Version Control
 Its prevent  if the CVS goes down ,and lead to make  collaborators cannot work with each other on a file or save changes and new versions,which lead to a big problem so a DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.Because the DVCS allows for multiple mirrored repositories, programmers working in teams can collaborate with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.
 
-### **After this Introduction what is Git? **
+### **After this Introduction what is Git?**
 Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project `called commit `  you can add it throw  `git commit -m " add Message here "` then Git will creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
 
 Git includes inherent Graphical User Interface (GUI) tools. but users can also utilize third-party tools created for particular platforms.
