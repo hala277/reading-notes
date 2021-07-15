@@ -65,7 +65,7 @@ This CSS file is then referenced in the HTML using the `<link>` tag. The `<link>
 ## CSS color Property:
 *The color property specifies the color of text.*
 
-**CSS Syntax : **
+**CSS Syntax:**
 `color: color|initial|inherit;`
 
 + **color:** *Specifies the text color. Look at CSS Color Values for a complete list of possible color values.*
