@@ -12,6 +12,7 @@ groth mind set| [grothMindSet page]( https://hala277.github.io/reading-notes/gro
 Markdown and GitHub pages|[Markdown page](https://hala277.github.io/reading-notes/read01)
 Git | [Git page]( https://hala277.github.io/reading-notes/read02)
 Html and wireframe | [html and wire frame page](https://hala277.github.io/reading-notes/read03)
+intro to Java script | [java script page](https://hala277.github.io/reading-notes/read04)
 
 
 
