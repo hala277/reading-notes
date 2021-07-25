@@ -13,6 +13,7 @@ read01|[Markdown page](https://hala277.github.io/reading-notes/read01)
 read02 | [Git page]( https://hala277.github.io/reading-notes/read02)
 read03 | [html and wire frame page](https://hala277.github.io/reading-notes/read03)
 read04 | [java script page](https://hala277.github.io/reading-notes/read04)
+read05 | [operators and loops](https://hala277.github.io/reading-notes/read05)
 read06 | [CSS page](https://hala277.github.io/reading-notes/read06)
 
 
