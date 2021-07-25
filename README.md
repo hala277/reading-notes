@@ -8,11 +8,12 @@ I'm currently a second-year software engineering student at ASAC, I have an entr
 
 content | link
 ------------ | -------------
-groth mind set| [grothMindSet page]( https://hala277.github.io/reading-notes/grothMindSet)
-Markdown and GitHub pages|[Markdown page](https://hala277.github.io/reading-notes/read01)
-Git | [Git page]( https://hala277.github.io/reading-notes/read02)
-Html and wireframe | [html and wire frame page](https://hala277.github.io/reading-notes/read03)
-intro to Java script | [java script page](https://hala277.github.io/reading-notes/read04)
+Lab 01b| [grothMindSet page]( https://hala277.github.io/reading-notes/grothMindSet)
+read01|[Markdown page](https://hala277.github.io/reading-notes/read01)
+read02 | [Git page]( https://hala277.github.io/reading-notes/read02)
+read03 | [html and wire frame page](https://hala277.github.io/reading-notes/read03)
+read04 | [java script page](https://hala277.github.io/reading-notes/read04)
+read06 | [CSS page](https://hala277.github.io/reading-notes/read06)
 
 
 
