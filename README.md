@@ -15,6 +15,7 @@ read03 | [html and wire frame page](https://hala277.github.io/reading-notes/read
 read04 | [java script page](https://hala277.github.io/reading-notes/read04)
 read05 | [operators and loops](https://hala277.github.io/reading-notes/read05)
 read06 | [CSS page](https://hala277.github.io/reading-notes/read06)
+read07 | [Functions and Operators](https://hala277.github.io/reading-notes/read07)
 
 
 
