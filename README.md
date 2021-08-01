@@ -4,7 +4,7 @@
 I'm currently a second-year software engineering student at ASAC, I have an entrest in programming and web development that why I decided to take this course***
 [github bage](https://github.com/hala277)
 
-# *Table of content*
+# *Code 102 Reading Notes*
 
 content | link
 ------------ | -------------
@@ -18,14 +18,24 @@ read06 | [CSS page](https://hala277.github.io/reading-notes/read06)
 read07 | [Functions and Operators](https://hala277.github.io/reading-notes/read07)
 
 
-
-
-
-
-
-
-
-
+# *Code 201 Reading Notes*
+content | link
+------------ | -------------
+read01 |
+read02 | 
+read03 | 
+read04 | 
+read05 | 
+read06 | 
+read07 | 
+read08 | 
+read09 | 
+read10 | 
+read11 | 
+read12 | 
+read13 | 
+read14 | 
+read15 | 
 
 
 
