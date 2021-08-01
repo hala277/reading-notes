@@ -81,17 +81,14 @@ jargon) in a document, it is known as the defining instance of it.
 
 11. #### *author details*
 `<address>`
-The <address> element has  quite a specific use: to contain  contact details for the author of  the page. It can contain a physical address,  but it does not have to. For  example, it may also contain a  phone number or email address. Browsers often display the  content of the <address>  element in italics.
+The `<address>` element has  quite a specific use: to contain  contact details for the author of  the page. It can contain a physical address,  but it does not have to. For  example, it may also contain a  phone number or email address. Browsers often display the  content of the `<address>`  element in italics.
 
 12. #### *changes To content*
 `<ins>` `<del>`
-The <ins> element can be used to show content that has been  inserted into a document, while 
-the <del> element can show text  that has been deleted from it. The content of a <ins> element 
-is usually underlined, while the  content of a <del> element usually has a line through it.
+*The `<ins>` element can be used to show content that has been  inserted into a document, while the `<del>` element can show text  that has been deleted from it. The content of a `<ins>` element is usually underlined, while the  content of a `<del>` element usually has a line through it.*
 
 `<s>`
-The <s> element indicates  something that is no longer accurate or relevant (but that 
-should not be deleted).Visually the content of an <s>  element will usually be displayed  with a line through the center.
+*The `<s>` element indicates  something that is no longer accurate or relevant (but that should not be deleted).Visually the content of an `<s>`  element will usually be displayed  with a line through the center.*
 
 ### *As a conclusion :*
 
