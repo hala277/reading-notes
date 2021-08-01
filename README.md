@@ -19,10 +19,11 @@ read07 | [Functions and Operators](https://hala277.github.io/reading-notes/read0
 
 
 # *Code 201 Reading Notes*
+
 content | link
 ------------ | -------------
-read-01 |[read01](https://hala277.github.io/reading-notes/read01)
-read-02 |[]()
+read-01 |
+read-02 |
 read-03 | 
 read-04 | 
 read-05 | 
