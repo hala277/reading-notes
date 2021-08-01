@@ -22,7 +22,7 @@ read07 | [Functions and Operators](https://hala277.github.io/reading-notes/read0
 
 content | link
 ------------ | -------------
-read-01 |[read-01 htma,css,js](https://hala277.github.io/reading-notes/class-01)
+read-01 |[class-01](https://hala277.github.io/reading-notes/class-01)
 read-02 |
 read-03 | 
 read-04 | 
