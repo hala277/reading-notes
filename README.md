@@ -21,21 +21,21 @@ read07 | [Functions and Operators](https://hala277.github.io/reading-notes/read0
 # *Code 201 Reading Notes*
 content | link
 ------------ | -------------
-read01 |
-read02 | 
-read03 | 
-read04 | 
-read05 | 
-read06 | 
-read07 | 
-read08 | 
-read09 | 
-read10 | 
-read11 | 
-read12 | 
-read13 | 
-read14 | 
-read15 | 
+read-01 |[read01](https://hala277.github.io/reading-notes/read01)
+read-02 |[]()
+read-03 | 
+read-04 | 
+read-05 | 
+read-06 | 
+read-07 | 
+read-08 | 
+read-09 | 
+read-10 | 
+read-11 | 
+read-12 | 
+read-13 | 
+read-14 | 
+read-15 | 
 
 
 
