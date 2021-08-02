@@ -192,9 +192,9 @@ colors= ['white', 'black', 'custom'];
 **Example how its start from zero not one**
 INDEX |  Value
 ------|--------
-0  | 'A'
-1  | 'B'
-2  | 'C'
+0  |'A'
+1  |'B'
+2  |'C'
 
  ## Decisions and Loops
 
@@ -205,9 +205,9 @@ INDEX |  Value
 
 if else | switch
 --------|--------
-*There is no need to provide an el se option. (You can just use an if statement.)| You have a default option that is run if none of the cases match. 
-With a series of if statements, they are all checked even if a match has been found (so it performs more slowly than switch).|If a match is found, that code is run; then the break statement stops the rest of  the switch statement running (providing  better performance than multiple if statements). 
--------------------------------------------------------
+*There is no need to provide an el se option. (You can just use an if statement.) |You have a default option that is run if none of the cases match. 
+With a series of if statements, they are all checked even if a match has been found (so it performs more slowly than switch). |If a match is found, that code is run; then the break statement stops the rest of  the switch statement running (providing  better performance than multiple if statements). 
+
 
 ### loops
 *Loops check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false. There are three common types of loops:*
