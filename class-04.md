@@ -88,7 +88,7 @@ Code example:
 <img> <b> <i>
 ````
 **containing Elements**
-
+ 
 *If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element. It is common to group a number of elements together inside a `<div>` (or other block-level) element. For example, you might group together all of the elements that form the header of a site (such as the logo and the main navigation). The `<div>` element that contains this group of elements is then referred to as the containing element.*
 
 *A box may be nested inside several other block-level elements. The containing element is always the direct parent of that element.*
