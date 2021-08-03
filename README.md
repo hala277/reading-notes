@@ -25,7 +25,7 @@ content | link
 read-01 |[class-01](https://hala277.github.io/reading-notes/class-01)
 read-02 |[class-02](https://hala277.github.io/reading-notes/class-02)
 read-03 |[class-03](https://hala277.github.io/reading-notes/class-03)
-read-04 | 
+read-04 | [class-04](https://hala277.github.io/reading-notes/class-04)
 read-05 | 
 read-06 | 
 read-07 | 

@@ -192,9 +192,9 @@ colors= ['white', 'black', 'custom'];
 **Example how its start from zero not one**
 INDEX |  Value
 ------|--------
-0  |'A'
-1  |'B'
-2  |'C'
+0 |'A'
+1 |'B'
+2 |'C'
 
  ## Decisions and Loops
 
