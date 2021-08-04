@@ -20,14 +20,15 @@
 ```
 <p> Movie Reviews:
  <ul>
-  <li><a href="http://www.empireonli.co">
+  <li><a href="http:">
     Empire</a></li>
-  <li><a href="http://www.metacrit.co">
+  <li><a href="http:">
     Metacritic</a></li>
-  <li><a href="http://www.rottentomato.co">
+  <li><a href="http:">
     Rotten Tomatoes</a></li>
-  <li><a href="http://www.varie.c">
+  <li><a href="http:">
     Variety</a></li>  </ul>
+    
 </p>
 ```
  **Linking to other Pages on the same site code example:**
@@ -35,10 +36,10 @@
 ```
 <p>
  <ul>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="about-us.html">About</a></li>
-  <li><a href="movies.html">Movies</a></li>
-  <li><a href="contact.html">Contact</a></li>
+  <li><a href="">Home</a></li>
+  <li><a href="">About</a></li>
+  <li><a href="">Movies</a></li>
+  <li><a href="">Contact</a></li>
  </ul>
 </p>
 
@@ -59,7 +60,7 @@
 
 Code example:
 ```
-<a href="http://www..imdb.co" target="_blank">Internet Movie Database</a> (opens in new window)
+<a href="http:" target="_blank">Internet Movie Database</a> (opens in new window)
 
 ```
 
