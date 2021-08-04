@@ -19,13 +19,13 @@
 ```
 <p> Movie Reviews:
  <ul>
-  <li><a href="http://www.empireonline.com">
+  <li><a href="http://www.empireonli.co">
     Empire</a></li>
-  <li><a href="http://www.metacritic.com">
+  <li><a href="http://www.metacrit.co">
     Metacritic</a></li>
-  <li><a href="http://www.rottentomatoes.com">
+  <li><a href="http://www.rottentomato.co">
     Rotten Tomatoes</a></li>
-  <li><a href="http://www.variety.com">
+  <li><a href="http://www.varie.c">
     Variety</a></li>  </ul>
 </p>
 ```
@@ -57,7 +57,7 @@
 
 Code example:
 ```
-<a href="http://www.imdb.co" target="_blank">Internet Movie Database</a> (opens in new window)
+<a href="http://www..imdb.co" target="_blank">Internet Movie Database</a> (opens in new window)
 
 ```
 *To link specific  Part of the same Page do  this using the id attribute (which  can be used on every HTML  element). The value of the id attribute  should start with a letter or an  underscore (not a number or  any other character) and, on a  single page, no two id attributes  should have the same value.*
