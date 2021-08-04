@@ -15,7 +15,8 @@
 **Writing Links:**
 *links are created using the `<a>` element. Users can click on anything  between the opening `<a>` tag and the closing `</a>` tag. You specify  which page you want to link to using the `href` attribute.The text between the opening `<a>` tag and closing `</a>` tag  is known as link text. Where  possible, your link text should  explain where visitors will be  taken if they click on it.*
 
-+ **Linking to other sites code example:**
+ **Linking to other sites code example:**
+
 ```
 <p> Movie Reviews:
  <ul>
@@ -29,7 +30,7 @@
     Variety</a></li>  </ul>
 </p>
 ```
-+ **Linking to other Pages on the same site code example:**
+ **Linking to other Pages on the same site code example:**
 
 ```
 <p>
@@ -42,6 +43,7 @@
 </p>
 
 ```
+
 **email Links:**
 *To create a link that starts up  the user's email program and  addresses an email to a specified  email address, you use the `<a>`  element. However, this time the  value of the `href` attribute starts  with mailto: and is followed by  the email address you want the  email to be sent to.*
 
@@ -60,6 +62,7 @@ Code example:
 <a href="http://www..imdb.co" target="_blank">Internet Movie Database</a> (opens in new window)
 
 ```
+
 *To link specific  Part of the same Page do  this using the id attribute (which  can be used on every HTML  element). The value of the id attribute  should start with a letter or an  underscore (not a number or  any other character) and, on a  single page, no two id attributes  should have the same value.*
 
 **Conclusion:**
@@ -86,7 +89,8 @@ Code example:
 **Examples code:**
 ```
 <img> <b> <i>
-````
+```
+
 **containing Elements**
  
 *If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element. It is common to group a number of elements together inside a `<div>` (or other block-level) element. For example, you might group together all of the elements that form the header of a site (such as the logo and the main navigation). The `<div>` element that contains this group of elements is then referred to as the containing element.*
