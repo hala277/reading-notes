@@ -28,7 +28,7 @@ read-03 |[class-03](https://hala277.github.io/reading-notes/class-03)
 read-04 | [class-04](https://hala277.github.io/reading-notes/class-04)
 read-05 | [class-05](https://hala277.github.io/reading-notes/class-05)
 read-06 | [class-06](https://hala277.github.io/reading-notes/class-06)
-read-07 | 
+read-07 | [class-07](https://hala277.github.io/reading-notes/class-07)
 read-08 | 
 read-09 | 
 read-10 | 
