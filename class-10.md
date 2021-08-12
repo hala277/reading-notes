@@ -31,8 +31,8 @@ Error objects can help you find where your mistakes are and browsers have tools 
 When an Error object is created, it will contain the  following properties: 
 PROPERTY |DESCRIPTION 
 ---------|----------------------------
-name |Type of execution 
-message |Description 
+name       |Type of execution 
+message    |Description 
 fileNumber |Name of the JavaScript file 
 lineN umber| Line number of error 
 
@@ -41,13 +41,13 @@ lineN umber| Line number of error
 *There are seven types of built-in error objects in JavaScript.* 
 OBJECT| DESCRIPTION 
 -----------|-------------------
-Error| Generic error - the other errors are all based upon this error 
-Syntax Error |Syntax has not been followed 
-Reference Error| Tried to reference a variable that is not declared/within scope 
-TypeError | An unexpected data type that cannot be coerced
-Range Error |Numbers not in acceptable range
-URI Error |`encodeURI(),decodeURI()`,and similar methods used incorrectly
-EvalError |`eval()` function used incorrectly 
+Error           | Generic error - the other errors are all based upon this error 
+Syntax Error    |Syntax has not been followed 
+Reference Error | Tried to reference a variable that is not declared/within scope 
+TypeError       | An unexpected data type that cannot be coerced
+Range Error     | Numbers not in acceptable range
+URI Error       |`encodeURI(),decodeURI()`,and similar methods used incorrectly
+EvalError       |`eval()` function used incorrectly 
 
 ### HOW TO DEAL WITH  ERRORS 
 *Now that you know what an error is and how the browser treats them,  there are two things you can do with the errors.* 
