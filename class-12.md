@@ -21,10 +21,13 @@
 
 ## **Drawing a line chart:**
 + To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. 
+
 ```
 <canvas id="buyers" width="600" height="400"></canvas>
 ```
+
 + Next, we need to write a script that will retrieve the context of the canvas, so add this to the foot of your body element:
+
 ```
 <script>
     var buyers = document.getElementById('buyers').getContext('2d');
@@ -32,7 +35,9 @@
 </script>
 
 ```
+
 + Add this immediately above the line that begins `var buyers`
+
 
 ```
 var buyerData = {
@@ -49,15 +54,19 @@ var buyerData = {
 }
 
 ```
+
 + after that we can see a cool animated line graph.
 
 ### Drawing a pie chart:
 + First, we need the canvas element
+
 ```
 <canvas id="countries" width="600" height="400"></canvas>
 
 ```
+
 + Next, we need to get the context and to instantiate the chart
+
 ```
 var countries= document.getElementById("countries").getContext("2d");
 new Chart(countries).Pie(pieData, pieOptions);
@@ -65,6 +74,7 @@ new Chart(countries).Pie(pieData, pieOptions);
 ```
 
 + Next we need to create the data. This data is a little different to the line chart because the pie chart is simpler, we just need to supply a value and a color for each section:
+
 ```
 var pieData = [
 	{
@@ -87,6 +97,7 @@ var pieData = [
 ```
 
 + Now, after the pieData we’ll add our options:
+
 ```
 var pieOptions = {
 	segmentShowStroke : false,
@@ -94,6 +105,7 @@ var pieOptions = {
 }
 
 ```
+
 + These options do two things:
 1. they remove the stroke from the segments
 2. then they animate the scale of the pie so that it zooms out from nothing.
