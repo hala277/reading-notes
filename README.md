@@ -25,15 +25,15 @@ content | link
 read-01 |[class-01](https://hala277.github.io/reading-notes/class-01)
 read-02 |[class-02](https://hala277.github.io/reading-notes/class-02)
 read-03 |[class-03](https://hala277.github.io/reading-notes/class-03)
-read-04 | [class-04](https://hala277.github.io/reading-notes/class-04)
-read-05 | [class-05](https://hala277.github.io/reading-notes/class-05)
-read-06 | [class-06](https://hala277.github.io/reading-notes/class-06)
-read-07 | [class-07](https://hala277.github.io/reading-notes/class-07)
-read-08 | [class-08](https://hala277.github.io/reading-notes/class-08)
-read-09 | [class-09](https://hala277.github.io/reading-notes/class-09)
-read-10 | [class-10](https://hala277.github.io/reading-notes/class-10)
-read-11 | [class-11](https://hala277.github.io/reading-notes/class-11)
-read-12 | 
+read-04 |[class-04](https://hala277.github.io/reading-notes/class-04)
+read-05 |[class-05](https://hala277.github.io/reading-notes/class-05)
+read-06 |[class-06](https://hala277.github.io/reading-notes/class-06)
+read-07 |[class-07](https://hala277.github.io/reading-notes/class-07)
+read-08 |[class-08](https://hala277.github.io/reading-notes/class-08)
+read-09 |[class-09](https://hala277.github.io/reading-notes/class-09)
+read-10 |[class-10](https://hala277.github.io/reading-notes/class-10)
+read-11 |[class-11](https://hala277.github.io/reading-notes/class-11)
+read-12 |[class-12](https://hala277.github.io/reading-notes/class-12)
 read-13 | 
 read-14 | 
 read-15 | 
