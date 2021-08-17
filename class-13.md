@@ -3,7 +3,7 @@
 ## Diving In
 *ersistent local storage is one of the areas where native client applications have held an advantage over web applications. For native applications, the operating system typically provides an abstraction layer for storing and retrieving application-specific data like preferences or runtime state. These values may be stored in the registry, INI files, XML files, or some other place according to platform convention. Historically, web applications have had none of these luxuries. Cookies were invented early in the web’s history, and indeed they can be used for persistent local storage of small amounts of data.*
 
-##A BRIEF HISTORY OF LOCAL STORAGE HACKS BEFORE HTML5
+## A BRIEF HISTORY OF LOCAL STORAGE HACKS BEFORE HTML5
 *There was only one browser at first: Internet Explorer. At least, that's what Microsoft wanted the rest of the world to believe. To that aim, Microsoft created a lot of items during the First Great Browser Wars and included them in their browser-to-end-all-browser-wars, Internet Explorer. DHTML Behaviors was one of these things, and userData was one of these behaviors.*
 
 *In a hierarchical XML-based structure, userData allows web pages to hold up to 64 KB of data per domain. (Trusted domains, such as intranet sites, have ten times the storage capacity.) And, hey, 640 KB should plenty for most people.) There is no permissions dialog in Internet Explorer, and there is no way to increase the amount of storage available.*
