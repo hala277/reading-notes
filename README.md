@@ -1,10 +1,12 @@
 
 # *introduction about me:*
-***my name is hala almasharfeh I'm 21 years old from Amman, Jordan.
-I'm currently a second-year software engineering student at ASAC, I have an entrest in programming and web development that why I decided to take this course***
+***my name is hala almasharfeh I'm 21 years old from Amman, Jordan.I'm currently a second-year software engineering student at ASAC, I have an interest in programming and web development that why I decided to take this course***
 [github bage](https://github.com/hala277)
 
-# *Code 102 Reading Notes*
+---------------------------
+
+# *Code 102 - Intro to Software Development*
+## *Code 102 Reading Notes*
 
 content | link
 ------------ | -------------
@@ -17,8 +19,9 @@ read05 | [operators and loops](https://hala277.github.io/reading-notes/read05)
 read06 | [CSS page](https://hala277.github.io/reading-notes/read06)
 read07 | [Functions and Operators](https://hala277.github.io/reading-notes/read07)
 
-
-# *Code 201 Reading Notes*
+--------------------------
+# *Code 201 - Foundations of Software Development*
+## *Code 201 Reading Notes*
 
 content | link
 ------------ | -------------
@@ -37,7 +40,15 @@ read-12 |[class-12](https://hala277.github.io/reading-notes/class-12)
 read-13 |[class-13](https://hala277.github.io/reading-notes/class-13)
 read-14a|[class-14a](https://hala277.github.io/reading-notes/class-14a)
 read-14b|[class-14b](https://hala277.github.io/reading-notes/class-14b) 
-read-15 | 
+
+--------------------------
+
+# *Code 301 - Intermediate Software Development*
+## *Code 301 Reading Notes*
+
+content | link
+------------ | -------------
+
 
 
 
