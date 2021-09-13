@@ -56,3 +56,4 @@ content | link
 ------------ | -------------
 Read-Class-01|[class-01](https://hala277.github.io/reading-notes/Read-Class-01)
 Read-Class-02|[class-02](https://hala277.github.io/reading-notes/Read-Class-02)
+Read-Class-03|[class-02](https://hala277.github.io/reading-notes/Read-Class-03)
