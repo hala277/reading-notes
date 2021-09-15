@@ -27,7 +27,7 @@ Rewrite the following statement using a ternary statement:
 ```
 
 ``` javascript
-x===y = (true ? 'Yes' : 'No';)
+x===y ? console.log(true) : console.log(false)
 ```
 
 ## Things I want to know more about
