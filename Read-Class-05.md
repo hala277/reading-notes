@@ -37,3 +37,4 @@ Aside from the array, the arguments to reduce are a combining function and a sta
 ## Things I want to know more about
 
 * more about react and other library
+* know more about componants
